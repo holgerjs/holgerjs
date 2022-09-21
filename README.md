@@ -23,6 +23,12 @@ I'm a Cloud Architect, mainly working on designing Azure and AWS infrastructure.
 
 * Cognitive Services
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
+
 * Azure SDK for Python
   * [Use the Azure Retail Rates Prices API to retrieve Data](https://github.com/holgerjs/snippets/blob/main/py-get-azure-pricing-from-the-price-api.md)
   * [Retrieve list of Azure resources](https://github.com/holgerjs/snippets/blob/main/py-get-azure-resources.md)
+
+* Storage / SQL
+  * [Move an Azure SQL DB to the serverless compute tier](https://github.com/holgerjs/snippets/blob/main/move-sql-provisioned-to-serverless.md)
+  * [Use Azure Storage REST API](https://github.com/holgerjs/snippets/blob/main/use-azure-storage-rest-api.md)
+
