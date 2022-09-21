@@ -32,3 +32,6 @@ I'm a Cloud Architect, mainly working on designing Azure and AWS infrastructure.
   * [Move an Azure SQL DB to the serverless compute tier](https://github.com/holgerjs/snippets/blob/main/move-sql-provisioned-to-serverless.md)
   * [Use Azure Storage REST API](https://github.com/holgerjs/snippets/blob/main/use-azure-storage-rest-api.md)
 
+* Azure REST API
+  * [Retrieve an OAuth2 Token through PowerShell](https://github.com/holgerjs/snippets/blob/main/pwsh_get_oauth2_token.md)
+  
