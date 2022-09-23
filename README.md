@@ -25,6 +25,7 @@ I'm a Cloud Architect, mainly working on designing Azure and AWS infrastructure.
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
 
 * Azure SDK for Python
+  * [Generate List of Storage Accounts along with Policy Settings](https://github.com/holgerjs/snippets/blob/main/py-list-storage-accounts-and-policy-settings.md)
   * [List Storage Account Lifecycle Policies](https://github.com/holgerjs/snippets/blob/main/py-list-storage-account-lifecycle-policies.md)
   * [Use the Azure SDK for Python to query Blob Details such as Last Access Time](https://github.com/holgerjs/snippets/blob/main/py-use-sdk-to-query-blob-details.md)
   * [Use Azure Resource Graph to extract Storage Account Security Settings](https://github.com/holgerjs/snippets/blob/main/py-use-resource-graph-to-get-specific-storage-account-settings.md)
