@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Cloud Architect here, mainly working on designing Azure and AWS infrastructure. I'm passionate about automation and interested in solutions including AI components. 
+Cloud Architect here, mainly working on designing Azure and AWS infrastructure. 
 
 ### GitHub Inventory
 
