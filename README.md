@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Cloud Architect here, mainly working on designing Azure and AWS infrastructure. 
-
 ### GitHub Inventory
 
 #### Azure
