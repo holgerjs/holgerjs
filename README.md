@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
 
 * Azure SDK for Python
+  * [Retrieve Storage Account Metrics](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-get-storage-account-metrics.md)
   * [Generate List of Storage Accounts along with Policy Settings](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-list-storage-accounts-and-policy-settings.md)
   * [List Storage Account Lifecycle Policies](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-list-storage-account-lifecycle-policies.md)
   * [Use the Azure SDK for Python to query Blob Details such as Last Access Time](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-use-sdk-to-query-blob-details.md)
