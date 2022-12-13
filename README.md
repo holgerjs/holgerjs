@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ### GitHub Inventory
 
+#### General
+
+* [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/README.md)
+
 #### Azure
 
 * Cognitive Services
