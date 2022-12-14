@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 #### General
 
 * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/Compare_Jumphost_Offerings.md)
+* [Test AWS Session Manager with VPC Endpoints](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/Test_AWS_Session_Manager.md)
 
 #### Azure
 
