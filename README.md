@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### General
 
-* [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/README.md)
+* [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/Compare_Jumphost_Offerings.md)
 
 #### Azure
 
