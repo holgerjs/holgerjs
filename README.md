@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### GitHub Inventory
 
 * Jumphosts
-  * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/Compare_Jumphost_Offerings.md)
-  * [Test AWS Session Manager with VPC Endpoints](https://github.com/holgerjs/jumphosts-in-the-cloud/blob/main/Test_AWS_Session_Manager.md)
+  * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/documentation/blob/main/Compare_Jumphost_Offerings.md)
+  * [Test AWS Session Manager with VPC Endpoints](https://github.com/holgerjs/documentation/blob/main/Test_AWS_Session_Manager.md)
 
 * Cognitive Services
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
