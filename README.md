@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 * Jumphosts
   * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/documentation/blob/main/Compare_Jumphost_Offerings.md)
   * [Test AWS Session Manager with VPC Endpoints](https://github.com/holgerjs/documentation/blob/main/Test_AWS_Session_Manager.md)
+  * [Test Azure Bastion](https://github.com/holgerjs/documentation/blob/main/Test_Azure_Bastion.md)
+  * [How to use PuTTY to access an Azure Linux VM through Bastion](https://github.com/holgerjs/documentation/blob/main/Access_Azure_Linux_VM_with_PuTTY.md)
 
 * Cognitive Services
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
