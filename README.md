@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   * [Retrieve list of Azure resources](https://github.com/holgerjs/snippets/blob/main/py-get-azure-resources.md)
 
 * Azure REST API
-  * [Retrieve an OAuth2 Token through PowerShell](https://github.com/holgerjs/az-rest-api-samples/blob/main/pwsh_get_oauth2_token.md)
-  * [Use Azure Storage REST API](https://github.com/holgerjs/az-rest-api-samples/blob/main/use-azure-storage-rest-api.md)
+  * [Retrieve an OAuth2 Token through PowerShell](https://github.com/holgerjs/documentation/blob/main/Pwsh_Get_Oauth2_Token.md)
+  * [Use Azure Storage REST API](https://github.com/holgerjs/documentation/blob/main/Use-Azure-Storage-Rest-Api.md)
   
