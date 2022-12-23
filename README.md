@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 * Cognitive Services
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
 
-* Azure SDK for Python
-  * [How to retrieve a list of available services from the Azure Retail Rates Prices API](py-how-to-get-a-list-of-azure-services-from-pricing-api.md)
+* Python & Azure SDK for Python
+  * [How to retrieve a list of available services from the Azure Retail Rates Prices API]([py-how-to-get-a-list-of-azure-services-from-pricing-api.md](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-how-to-get-a-list-of-azure-services-from-pricing-api.md))
   * [Retrieve Storage Account Metrics](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-get-storage-account-metrics.md)
   * [Generate List of Storage Accounts along with Policy Settings](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-list-storage-accounts-and-policy-settings.md)
   * [List Storage Account Lifecycle Policies](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-list-storage-account-lifecycle-policies.md)
