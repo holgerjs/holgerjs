@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   * [Retrieve list of Azure resources](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-get-azure-resources.md)
 
 * Azure REST API
+  * [How to retrieve a Bearer Token for Azure in Python](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-how-to-retrieve-a-bearer-token.md)
   * [Retrieve an OAuth2 Token through PowerShell](https://github.com/holgerjs/documentation/blob/main/Pwsh_Get_Oauth2_Token.md)
   * [Use Azure Storage REST API](https://github.com/holgerjs/documentation/blob/main/Use-Azure-Storage-Rest-Api.md)
   
