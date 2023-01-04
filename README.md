@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### GitHub Inventory
 
 * Azure Functions
- * [Azure Function for checking available names across Azure Resources](https://github.com/holgerjs/name-func)
+  * [Azure Function for checking available names across Azure Resources](https://github.com/holgerjs/name-func)
 
 * Jumphosts
   * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/documentation/blob/main/Compare_Jumphost_Offerings.md)
