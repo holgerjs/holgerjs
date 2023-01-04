@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ### GitHub Inventory
 
+* Azure Functions
+ * [Azure Function for checking available names across Azure Resources](https://github.com/holgerjs/name-func)
+
 * Jumphosts
   * [Comparison of AWS Session Manager and Azure Bastion](https://github.com/holgerjs/documentation/blob/main/Compare_Jumphost_Offerings.md)
   * [Test AWS Session Manager with VPC Endpoints](https://github.com/holgerjs/documentation/blob/main/Test_AWS_Session_Manager.md)
