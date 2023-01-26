@@ -1,4 +1,4 @@
-<a rel="me" href="https://hachyderm.io/@holgerjs">Mastodon</a>
+<a rel="me" href="https://hachyderm.io/@holgerjs"></a>
 
 ### Hi there 👋
 
