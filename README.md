@@ -1,4 +1,3 @@
-<a rel="me" href="https://hachyderm.io/@holgerjs"></a>
 
 ### Hi there 👋
 
