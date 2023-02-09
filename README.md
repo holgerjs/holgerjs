@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### GitHub Inventory
 
+* Links around Python within the Azure Ecosystem
+  * [Monthly Feed](https://github.com/holgerjs/monthly-azure-and-python-feed)
+
 * Azure Functions
   * [Azure Function for checking available names across Azure Resources](https://github.com/holgerjs/name-func)
 
