@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   * [Deploy and Test Azure Cognitive Services](https://github.com/holgerjs/deploy-az-cognitive-services)
 
 * Python & Azure SDK for Python
+  * [Transport Sharing with the Azure SDK for Python](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-transport-sharing.md)
   * [How to create a Python Azure Web App](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-how-to-create-a-python-webapp-with-the-sdk.md)
   * [How to retrieve Virtual Machine Image Details](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-retrieve-vm-images.md)
   * [How to check for Available Resource Names](https://github.com/holgerjs/az-sdk-py-samples/blob/main/py-query-available-resource-names.md)
