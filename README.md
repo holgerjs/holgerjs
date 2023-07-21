@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 * Azure Retail Rate Prices API
   * [Query The Azure Retail Price API with PowerShell or Python](https://github.com/holgerjs/query-the-azure-retail-prices-api/)
 
-* Links around Python within the Azure Ecosystem
-  * [Monthly Feed](https://github.com/holgerjs/monthly-azure-and-python-feed)
-
 * Azure Functions
   * [Azure Function for checking available names across Azure Resources](https://github.com/holgerjs/name-func)
 
