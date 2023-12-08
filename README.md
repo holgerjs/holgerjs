@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Inventory
+### Inventory
 
 * Azure Retail Rate Prices API
   * [Query The Azure Retail Price API with PowerShell or Python](https://github.com/holgerjs/query-the-azure-retail-prices-api/)
